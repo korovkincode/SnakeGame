@@ -1,2 +1,2 @@
 # SnakeGame
-SnakeGame on Python3
+SnakeGame on Python3, using Tkinter
